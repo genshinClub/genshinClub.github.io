@@ -1,20 +1,32 @@
 title{
-font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 body {
-font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 a:link, a:visited {
-  background-color: #56a9da;
-  color: white;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+    background-color: #56a9da;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
 a:hover, a:active {
-  background-color: #4bbdff;
+    background-color: #4bbdff;
+}
+
+header {
+    text-align: center;
+    font-size: 35px;
+    color: black;
+  }
+
+article {
+    text-align: center;
+    font-size: 22px;
+    color: black;
 }
